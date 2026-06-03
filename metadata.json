@@ -1,0 +1,6 @@
+{
+  "name": "Pocket AI",
+  "description": "Premium AI Prompt Generator & AI Tools Hub supporting English & Bangla, dark glassmorphism styling, and custom prompt templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
